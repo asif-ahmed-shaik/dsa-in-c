@@ -1,2 +1,1 @@
-# dsa-in-c
-Data Structure and Algorithms practice in C
+I'm learning DSA in C, following my college coursework while practicing problems independently.
